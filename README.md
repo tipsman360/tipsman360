@@ -2,8 +2,6 @@
 <h1 align="center">👋 Hi, I'm Md. Mehedi Hasan!</h1>
 <p align="center">
   <a href="https://github.com/tipsman360"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
-  <a href="https://linkedin.com/in/tipsman360"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"></a>
-  <a href="https://twitter.com/tipsman360"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" alt="Twitter Profile"></a>
 </p>
 
 ---
